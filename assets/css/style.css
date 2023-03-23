@@ -3,13 +3,3 @@ header{
     
 }
 
-.carousel-caption.d-none.d-md-block {
-    font-size: 40;
-    color: black;
-    text-align: center;
-    background-color: brown;
-}
-
-.card {
-    display: inline;
-}

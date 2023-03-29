@@ -1,9 +1,15 @@
 /* título: color de background */
 header{
-    background-color: aquamarine;
+    background-color: rgb(211, 59, 3);
     
 }
 
 .presentación {
     font-size: 2rem;
+    color:white;
+    padding: 5px;
+}
+
+.nav {
+    padding: 5px;
 }

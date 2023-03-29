@@ -1,5 +1,5 @@
 /* título: color de background */
-header{
+h2, h1{
     background-color: rgb(211, 59, 3);
     
 }
@@ -12,4 +12,9 @@ header{
 
 .nav {
     padding: 5px;
+}
+
+h2 {
+    text-align: center;
+    padding: 2rem;
 }
